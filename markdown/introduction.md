@@ -6,7 +6,7 @@
 
 - [**Grokking the coding interview Course**](https://designgurus.org/course/grokking-the-coding-interview/) **.** This course material is great for engineers who have previously gone through a data structures course and just want to start grinding immediately. Also, these questions are more likely the ones that will be asked during your interview! We will start to cover this course during week 1.
 
-- [**System Design Interview Book**](https://www.amazon.com/System-Design-Interview-insiders-Second/)- This book will cover everything you need to know for a System Design interviews.
+- [**System Design Interview Book**]([https://www.amazon.com/System-Design-Interview-insiders-Second/](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_1?keywords=system+design+interview&qid=1668353380&sr=8-1))- This book will cover everything you need to know for a System Design interviews.
 
 - [**The Tech Resume Inside Out Book**](https://thetechresume.com/)- A practical guide written by the people who do the resume screening: engineering managers and recruiters working at tech companies.
 
