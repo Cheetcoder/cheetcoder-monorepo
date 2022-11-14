@@ -1,14 +1,24 @@
-####### ʕ•́ᴥ•̀ʔっ Templates ###### 
+###########（っ＾▿＾）Templates for Patterns ###########
 
-##### EASY ######
+##### ( ≖.≖) EASY ######
 #! Fixed Window, if statement, checking the curr idx against the val of k
+
+####### ʕ•́ᴥ•̀ʔっ Sliding Window Easy Sudo ###### 
+#* initialize variables
+#* try to extend the window, THIS IS OUR FOR LOOP
+#* try to move the window for a fixed window, THIS IS OUR IF STATEMENT
+#* shrink the window
+#* return res
+
 
 def find_averages_of_subarrays(K, arr):
   result = []
   win_sum, win_start = 0.0, 0
+  #* grow the window
   for win_end in range(len(arr)):
     win_sum += arr[win_end]  # add the next element
     # slide the window, we don't need to slide if we've not hit the required window size of 'k'
+    #* shrink the window
     if win_end >= K - 1:
       result.append(win_sum / K)  # calculate the average
       win_sum -= arr[win_start]  # subtract the element going out
@@ -23,6 +33,16 @@ def main():
 main()
 
 
-##### MEDIUM ######
+##### ( ≖.≖) MEDIUM & HARD ######
 #! Dynamic Window, while loop, checking (the curr val/idx) against a condition to ensure it is true
+
+####### ʕ•́ᴥ•̀ʔっ Sliding Window Medium/Hard Sudo ###### 
+#* Initialize the problem
+#* Try to grow the window at each iteration, this is our IF STATEMENT
+#* Try to shrink the window, This is our WHILE LOOP... while ____ is ___, shrink the window (why shrink it?) 
+#* conditional 
+#* return res
+
+
+
 
