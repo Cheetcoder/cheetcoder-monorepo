@@ -8,7 +8,7 @@ description: How to conduct mock interviews
 
 ## Self Study 
 
-Read
+## Read
 
 - https://interviewcamp.io/courses/101687/lectures/1678184 
 
@@ -26,7 +26,7 @@ If I see you perform the following steps well, I will advocate to hire you. And 
 5. Verify code and test cases Once you are done, make sure you step through the code and make sure it works.
 
 
-Watch 
+## Watch 
 
 - https://interviewcamp.io/courses/101687/lectures/14466914
 
