@@ -1,4 +1,9 @@
-# Welcome to the coding interview: You Suck
+---
+title: Welcome to the coding intervie: You Suck
+description: This exercise will help you learn why coding interviews are important.
+---
+
+
 
 
 ## Self Study 
