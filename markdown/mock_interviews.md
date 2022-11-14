@@ -29,6 +29,7 @@ If I see you perform the following steps well, I will advocate to hire you. And 
 ## Watch 
 
 - https://interviewcamp.io/courses/101687/lectures/14466914
+- https://interviewcamp.io/courses/101687/lectures/8454645
 
 
 ## In person Discussion
