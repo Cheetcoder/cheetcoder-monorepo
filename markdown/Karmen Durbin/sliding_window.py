@@ -1,4 +1,4 @@
-###########（っ＾▿＾）Templates for Patterns ###########
+###########（っ＾▿＾）Templates for Sliding Window ###########
 
 ##### ( ≖.≖) EASY ######
 #! Fixed Window, if statement, checking the curr idx against the val of k
@@ -39,7 +39,7 @@ main()
 ####### ʕ•́ᴥ•̀ʔっ Sliding Window Medium/Hard Sudo ###### 
 #* Initialize the problem
 #* Try to grow the window at each iteration, this is our IF STATEMENT
-#* Try to shrink the window, This is our WHILE LOOP... while ____ is ___, shrink the window (why shrink it?) 
+#* Try to shrink the window, This is our WHILE LOOP... while ____ is ___, shrink the window (why shrink it?) by incrementing the start
 #* conditional 
 #* return res
 
