@@ -6,7 +6,8 @@ description: Leadership
 ---
 ## Self Study 
 
-
+## Hear
+- https://www.manager-tools.com/2015/01/small-talk-interview# 
 
 ## Watch 
 
@@ -17,8 +18,6 @@ description: Leadership
 - https://geoffmazeroff.com/wp-content/uploads/2019/11/the-managers-path-notes.pdf
 
 
-## Hear
-- https://www.manager-tools.com/2015/01/small-talk-interview# 
 
 ## In person Discussion
 
