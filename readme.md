@@ -13,6 +13,6 @@
 5. Tell me About Yourself 
 6. Do you have any Questions for me
 7. [Data Structures](markdown/data_structures.md)
-8. Style Guides for Python, Javascript, Java, C++, Go
+8. [Style Guides for Python, Javascript, Java, C++, Go](markdown/style_guide.md)
 
 
