@@ -1,6 +1,6 @@
 ---
 title: Data Structures
-description: This module will help you understand DataStructures
+description: This module will help you understand data structures.
 ---
 
 There are lots of courses in data structures and Algoritms. We will focus on "data structures" first. 
