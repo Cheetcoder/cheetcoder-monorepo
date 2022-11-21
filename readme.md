@@ -10,6 +10,6 @@
 2. [Grokking the Coding interview](markdown/grokking.md)
 3. [Mock Interviews](markdown/mock_interviews.md)
 4. [Leadership skills for Software Engineers](markdown/leadership.md)
-5. [Data Structures](markdown/datastructures.md)
+5. [Data Structures](markdown/data_structures.md)
 
 
