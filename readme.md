@@ -11,7 +11,7 @@
 3. [Mock Interviews](markdown/mock_interviews.md)
 4. [Leadership skills for Software Engineers](markdown/leadership.md)
 5. Tell me About Yourself
-6. Do you have any Questions for me>
+6. Do you have any Questions for me
 7. [Data Structures](markdown/data_structures.md)
 
 
