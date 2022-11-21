@@ -30,4 +30,5 @@ Watch the Appendix section of https://www.udemy.com/course/master-the-coding-int
 
 - https://www.youtube.com/watch?v=dQw4w9WgXcQ ( The best material ever!, Guaranteed offer for Principal Level role at any company)
 - https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/  (Leetcode cards)
+- https://codewithmosh.com/p/data-structures-algorithms-part1 (Highly rated)
 
