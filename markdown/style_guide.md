@@ -18,4 +18,4 @@ description: linters, styles and bears, Oh My!
 
 ## Further links
 
-- https://www.youtube.com/watch?v=-HrfbV16-FQ
+- https://www.youtube.com/watch?v=J591SioKZJc
