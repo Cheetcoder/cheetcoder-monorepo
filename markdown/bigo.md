@@ -2,6 +2,10 @@
 title: Big-O Time & Space
 description: Big OOOOO
 ---
+You need to say the Time and Space complexity of the algorithm you are solving. (BEFORE Coding it up, say it! ) 
+
+## TLDR
+- https://www.youtube.com/watch?v=0oDAlMwTrLo 
 
 ---
 ## Watch
