@@ -11,6 +11,7 @@ You need to say the Time and Space complexity of the algorithm you are solving. 
 ---
 ## Read
 - https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?
+- https://algodaily.gumroad.com/l/yYEqr ( Page 32 Algorithm Complexity and Big O Notation)
 
 ---
 ## Watch
@@ -23,5 +24,5 @@ You need to say the Time and Space complexity of the algorithm you are solving. 
 ## Further Work 
 
 - https://www.youtube.com/watch?v=UNWSdgaPkwY ( Great extra resources!! )
-
+- https://elementsofprogramminginterviews.com/ (Read the section on Big O) 
 ---
